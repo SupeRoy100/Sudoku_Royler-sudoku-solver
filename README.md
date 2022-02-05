@@ -2,6 +2,7 @@
 well...
 Sudoku Royler is there for you!
 with Sudoku Royler you can:
+
 1. solve a sudoku board using the console
 2. solve a sudoku board using a reading txt file 
 
