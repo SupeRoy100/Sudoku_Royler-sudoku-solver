@@ -1,0 +1,16 @@
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Sudoku_Royler.UnitTests.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Sudoku_Royler.UnitTests.pdb
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Sudoku_Royler.exe
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Sudoku_Royler.pdb
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Sudoku_Royler.exe.config
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\obj\Debug\Sudoku_Royler.UnitTests.csproj.AssemblyReference.cache
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\obj\Debug\Sudoku_Royler.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\obj\Debug\Sudoku_Royler.UnitTests.dll
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler.UnitTests\obj\Debug\Sudoku_Royler.UnitTests.pdb

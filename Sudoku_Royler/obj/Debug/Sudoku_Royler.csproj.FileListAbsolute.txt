@@ -1,0 +1,7 @@
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\bin\Debug\Sudoku_Royler.exe.config
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\bin\Debug\Sudoku_Royler.exe
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\bin\Debug\Sudoku_Royler.pdb
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\obj\Debug\Sudoku_Royler.csproj.AssemblyReference.cache
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\obj\Debug\Sudoku_Royler.csproj.CoreCompileInputs.cache
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\obj\Debug\Sudoku_Royler.exe
+C:\Users\roygk\source\repos\Sudoku_Royler\Sudoku_Royler\obj\Debug\Sudoku_Royler.pdb
